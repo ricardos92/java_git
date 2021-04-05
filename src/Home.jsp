@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Practicando con git</h1>
+<h1>Practicando Git - Java Web</h1>
 </body>
 </html>
