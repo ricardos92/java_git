@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>Practicando Git - Java Web</h1>
+<h2>Subiendo a GitHub los cambios :)</h2>
 </body>
 </html>
